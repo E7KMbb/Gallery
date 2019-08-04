@@ -1,20 +1,20 @@
 <?xml version="1.0"?> 
 <substratum>
 <wallpaper id="ALI"> 
-<link>https://github.com/E7KMbb/Gallery/blob/master/wallpaper/ALI.png
+<link>https://raw.githubusercontent.com/E7KMbb/Gallery/blob/master/wallpaper/ALI.png
 </link> 
-<preview>https://github.com/E7KMbb/Gallery/blob/master/wallpaper/ALI.png</preview> 
+<preview>https://raw.githubusercontent.com/E7KMbb/Gallery/blob/master/wallpaper/ALI.png</preview> 
 </wallpaper>
 
 <wallpaper id="Blue"> 
-<link>https://github.com/E7KMbb/Gallery/blob/master/wallpaper/Blue.png
+<link>https://raw.githubusercontent.com/E7KMbb/Gallery/blob/master/wallpaper/Blue.png
 </link> 
-<preview>https://github.com/E7KMbb/Gallery/blob/master/wallpaper/Blue.png</preview> 
+<preview>https://raw.githubusercontent.com/E7KMbb/Gallery/blob/master/wallpaper/Blue.png</preview> 
 </wallpaper>
  
 <wallpaper id="Native"> 
-<link>https://github.com/E7KMbb/Gallery/blob/master/wallpaper/Native.png
+<link>https://raw.githubusercontent.com/E7KMbb/Gallery/blob/master/wallpaper/Native.png
 </link> 
-<preview>https://github.com/E7KMbb/Gallery/blob/master/wallpaper/Native.png</preview> 
+<preview>https://raw.githubusercontent.com/E7KMbb/Gallery/blob/master/wallpaper/Native.png</preview> 
 </wallpaper>
 </substratum>
